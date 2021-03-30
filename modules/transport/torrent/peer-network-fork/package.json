@@ -36,7 +36,7 @@
     "k-rpc": "^5.0.0",
     "k-rpc-socket": "^1.7.2",
     "nat-upnp": "^1.1.1",
-    "netmask": "^1.0.6",
+    "netmask": "^2.0.1",
     "network-address": "^1.1.2",
     "sax": "^1.2.4"
   },
